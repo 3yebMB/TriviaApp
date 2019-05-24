@@ -65,4 +65,9 @@
             app:popUpTo="@+id/titleFragment"
             app:popUpToInclusive="false" />
     </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="dev.m13d.triviaapp.navigation.AboutFragment"
+        android:label="@string/title_about_trivia"
+        tools:layout="@layout/fragment_about" />
 </navigation>
