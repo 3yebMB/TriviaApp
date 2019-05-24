@@ -19,3 +19,9 @@
 /build
 /captures
 .externalNativeBuild
+*.jar
+settings.gradle
+gradlew.bat
+gradlew
+gradle.properties
+proguard-rules.pro
